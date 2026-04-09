@@ -5,7 +5,7 @@ It is built using HTML, CSS, and JavaScript and is fully responsive.
 ---
 
 ## 🚀 Live Website
-👉 https://YOUR-USERNAME.github.io/portfolio-website
+live website: coming soon
 
 ---
 
@@ -44,7 +44,7 @@ This project was built to:
 
 ## 📌 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE  
+🔗 LinkedIn: https://www.linkedin.com/in/priya-yelve-8072603a4/
 💻 GitHub: https://github.com/Priyayelve  
 📧 Email: priyayelve27@yahoo.com  
 
