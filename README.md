@@ -5,7 +5,7 @@ It is built using HTML, CSS, and JavaScript and is fully responsive.
 ---
 
 ## 🚀 Live Website
-live website: coming soon
+https://www.linkedin.com/in/priya-yelve-8072603a4/
 
 ---
 
